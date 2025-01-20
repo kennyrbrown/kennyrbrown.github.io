@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "My Homepage"
 title_separator          : "-"
 name                     : &name "Kenneth R. Brown, PhD"
 description              : &description "Multifunctional Polymer Composites Research for Sustainability"
