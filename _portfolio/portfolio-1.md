@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Lab-scale Fiber Melt Spinning System"
+excerpt: "I developed a low-cost, lab-scale fiber melt spinning system to produce precursor fibers for carbon fiber synthesis<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
