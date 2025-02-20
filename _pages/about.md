@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-I am a postdoctoral research associate at the University of Virginia researching innovative and sustainable materials and methods for producing multi-functional, multi-scale polymer composites and low-cost, high-performance carbon fiber and under the supervision of professor <a href="https://engineering.virginia.edu/faculty/xiaodong-chris-li">Xiaodong (Chris) Li</a>.
+I am a postdoctoral research associate at the University of Virginia researching innovative and sustainable materials and methods for producing multi-functional, multi-scale polymer composites and low-cost, high-performance carbon fiber under the supervision of professor <a href="https://engineering.virginia.edu/faculty/xiaodong-chris-li">Xiaodong (Chris) Li</a>.
 
-_I’m excited to be advancing the sustainability of human mobility by making advanced materials more accessible for weight saving engineering designs._
+I’m excited to be advancing the _sustainability of human mobility_ by discovering advanced materials and processes for weight saving engineering designs.
 
 # Research Areas
 ## 💪 Multi-Scale Polymer Composites
