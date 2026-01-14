@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "KRBrown"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Kenneth R. Brown, PhD"
 description              : &description "Improving the Sustainability of Human Mobility"
@@ -24,7 +24,7 @@ author:
   avatar           : "Home Head Shot 2024.jpg"
   name             : "Kenneth R. Brown, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Director of Engineering  Torev Motors"
+  bio              : "Director of Engineering" <br> "Torev Motors"
   location         : "Virginia, USA"
   employer         : "Torev Motors"
   uri              : # URL
