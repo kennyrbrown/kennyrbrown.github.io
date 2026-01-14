@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "My Homepage"
+title                    : "KRBrown"
 title_separator          : "-"
 name                     : &name "Kenneth R. Brown, PhD"
-description              : &description "Multifunctional Polymer Composites Research for Sustainability"
+description              : &description "Improving the Sustainability of Human Mobility"
 url                      : https://kennethrbrown.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kennyrbrown/kennyrbrown.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "Home Head Shot 2024.jpg"
   name             : "Kenneth R. Brown, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Research Associate"
-  location         : "Charlottesville, VA"
-  employer         : "University of Virginia"
+  bio              : "Director of Engineering"
+  location         : "Virginia, USA"
+  employer         : "Torev Motors"
   uri              : # URL
-  email            : "krb5u@virginia.edu" 
+  # email            : "krb5u@virginia.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : "Kenneth.R.Brown"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "kennyrbrown"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
