@@ -24,7 +24,7 @@ author:
   avatar           : "Home Head Shot 2024.jpg"
   name             : "Kenneth R. Brown, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Director of Engineering" <br> "Torev Motors"
+  bio              : # "Director of Engineering"
   location         : "Virginia, USA"
   employer         : "Torev Motors"
   uri              : # URL
